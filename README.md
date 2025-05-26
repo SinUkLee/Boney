@@ -63,8 +63,8 @@
 
 ### 로그인 / 회원가입  
 카카오 로그인을 통해 간편하게 회원가입 및 로그인을 할 수 있습니다.  
-<img src="images/login.jpg" alt="로그인 화면" width="200"/>
-<img src="images/login2.jpg" alt="로그인 화면" width="200"/>
+<img src="images/login.png" alt="로그인 화면" width="200"/>
+<img src="images/login2.png" alt="로그인 화면" width="200"/>
 
 ### 보호자 메인페이지  
 보호자는 아이별 요약 정보, 퀘스트 현황, 대출 내역 등을 한눈에 확인할 수 있습니다.  
