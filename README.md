@@ -68,65 +68,65 @@
 
 ### 보호자 메인페이지  
 보호자는 아이별 요약 정보, 퀘스트 현황, 대출 내역 등을 한눈에 확인할 수 있습니다.  
-<img src="images/보호자메인.jpg" alt="보호자 메인페이지" width="300"/>
+<img src="images/보호자메인.jpg" alt="보호자 메인페이지" width="200"/>
 
 ### 아이 메인페이지  
 아이는 자신의 계좌 잔액, 신용 점수, 퀘스트 요약 정보를 확인할 수 있습니다.  
-<img src="images/아이메인.jpg" alt="아이 메인페이지" width="300"/>
+<img src="images/아이메인.jpg" alt="아이 메인페이지" width="200"/>
 
 ### 송금  
 송금 기능을 통해 간편하게 송금을 할 수 있습니다.  
-<img src="images/계좌선택.jpg" alt="계좌선택" width="300"/>
-<img src="images/계좌입력.jpg" alt="계좌입력" width="300"/>
-<img src="images/금액입력.jpg" alt="금액입력" width="300"/>
-<img src="images/비밀번호입력.jpg" alt="비밀번호입력" width="300"/>
-<img src="images/송금정보확인.jpg" alt="송금정보확인" width="300"/>
-<img src="images/송금완료.jpg" alt="송금완료" width="300"/>
+<img src="images/계좌선택.jpg" alt="계좌선택" width="200"/>
+<img src="images/계좌입력.jpg" alt="계좌입력" width="200"/>
+<img src="images/금액입력.jpg" alt="금액입력" width="200"/>
+<img src="images/비밀번호입력.jpg" alt="비밀번호입력" width="200"/>
+<img src="images/송금정보확인.jpg" alt="송금정보확인" width="200"/>
+<img src="images/송금완료.jpg" alt="송금완료" width="200"/>
 
 보호자는 아이에게 정기 송금을 등록할 수 있습니다.
-<img src="images/아이정보2.jpg" alt="아이정보2" width="300"/>
-<img src="images/정기용돈설정.jpg" alt="정기용돈설정" width="300"/>
+<img src="images/아이정보2.jpg" alt="아이정보2" width="200"/>
+<img src="images/정기용돈설정.jpg" alt="정기용돈설정" width="200"/>
 
 ### 거래 내역
 거래 내역을 조회하고 카테고리와 해시태그를 통해 내역을 관리할 수 있습니다.
-<img src="images/거래내역.jpg" alt="거래내역" width="300"/>
-<img src="images/상세내역.jpg" alt="상세내역" width="300"/>
-<img src="images/카테고리.jpg" alt="카테고리" width="300"/>
-<img src="images/해시태그.jpg" alt="해시태그" width="300"/>
+<img src="images/거래내역.jpg" alt="거래내역" width="200"/>
+<img src="images/상세내역.jpg" alt="상세내역" width="200"/>
+<img src="images/카테고리.jpg" alt="카테고리" width="200"/>
+<img src="images/해시태그.jpg" alt="해시태그" width="200"/>
 
 ### 리포트  
 지출 카테고리 분포와 수입/지출 비교, 최근 추이를 월간 리포트에서 확인할 수 있습니다.  
-<img src="images/월간리포트1.jpg" alt="월간리포트1" width="300"/>
-<img src="images/월간리포트2.jpg" alt="월간리포트2" width="300"/>
+<img src="images/월간리포트1.jpg" alt="월간리포트1" width="200"/>
+<img src="images/월간리포트2.jpg" alt="월간리포트2" width="200"/>
 
 ### 퀘스트  
 보호자가 퀘스트를 생성하고 아이는 이를 수행해 보상을 받을 수 있습니다.  
 (예: 청소하기, 숙제하기 등)  
-<img src="images/퀘스트생성1.jpg" alt="퀘스트생성1" width="300"/>
-<img src="images/퀘스트생성2.jpg" alt="퀘스트생성2" width="300"/>
-<img src="images/퀘스트생성3.jpg" alt="퀘스트생성3" width="300"/>
-<img src="images/퀘스트등록완료.jpg" alt="퀘스트등록완료" width="300"/>
-<img src="images/진행중인퀘스트.jpg" alt="진행중인퀘스트" width="300"/>
-<img src="images/퀘스트상세보기.jpg" alt="퀘스트상세보기" width="300"/>
-<img src="images/퀘스트완료신청.jpg" alt="퀘스트완료신청" width="300"/>
+<img src="images/퀘스트생성1.jpg" alt="퀘스트생성1" width="200"/>
+<img src="images/퀘스트생성2.jpg" alt="퀘스트생성2" width="200"/>
+<img src="images/퀘스트생성3.jpg" alt="퀘스트생성3" width="200"/>
+<img src="images/퀘스트등록완료.jpg" alt="퀘스트등록완료" width="200"/>
+<img src="images/진행중인퀘스트.jpg" alt="진행중인퀘스트" width="200"/>
+<img src="images/퀘스트상세보기.jpg" alt="퀘스트상세보기" width="200"/>
+<img src="images/퀘스트완료신청.jpg" alt="퀘스트완료신청" width="200"/>
 
 ### 대출  
 아이가 대출을 신청하고 전자서명 후, 보호자가 승인하는 과정을 거칩니다.
 대출 상황을 그래프를 통해 확인할 수 있습니다. 
-<img src="images/대출요청하기.jpg" alt="대출요청하기" width="300"/>
-<img src="images/대출요청하기2.jpg" alt="대출요청하기2" width="300"/>
-<img src="images/서명.jpg" alt="서명" width="300"/>
-<img src="images/대출신청완료.jpg" alt="대출신청완료" width="300"/>
-<img src="images/대기중인대출.jpg" alt="대기중인대출" width="300"/>
-<img src="images/보유중인대출.jpg" alt="보유중인대출" width="300"/>
+<img src="images/대출요청하기.jpg" alt="대출요청하기" width="200"/>
+<img src="images/대출요청하기2.jpg" alt="대출요청하기2" width="200"/>
+<img src="images/서명.jpg" alt="서명" width="200"/>
+<img src="images/대출신청완료.jpg" alt="대출신청완료" width="200"/>
+<img src="images/대기중인대출.jpg" alt="대기중인대출" width="200"/>
+<img src="images/보유중인대출.jpg" alt="보유중인대출" width="200"/>
 
 ### 마이페이지  
 회원 정보를 확인할 수 있으며 앱 비밀번호를 수정할 수 있습니다.  
-<img src="images/마이페이지1.jpg" alt="마이페이지1" width="300"/>
+<img src="images/마이페이지1.jpg" alt="마이페이지1" width="200"/>
 
 ### 알림
 송금, 퀘스트, 대출에 관한 푸쉬알림을 받고 관리할 수 있습니다.
-<img src="images/알림.jpg" alt="알림" width="300"/>
+<img src="images/알림.jpg" alt="알림" width="200"/>
 
 ---
 
