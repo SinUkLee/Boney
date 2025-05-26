@@ -83,6 +83,7 @@
 <img src="images/송금정보확인.jpg" alt="송금정보확인" width="200"/>
 <img src="images/송금완료.jpg" alt="송금완료" width="200"/>
 
+### 정기 송금
 보호자는 아이에게 정기 송금을 등록할 수 있습니다.
 <img src="images/아이정보2.jpg" alt="아이정보2" width="200"/>
 <img src="images/정기용돈설정.jpg" alt="정기용돈설정" width="200"/>
